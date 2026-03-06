@@ -12,5 +12,5 @@ Skills Demonstrated
 Projects
 
 1. Login Functionality Testing
-2. E-commerce Website Testing (coming soon)
-3. API Testing (coming soon)
+2. E-commerce Website Testing 
+3. API Testing
